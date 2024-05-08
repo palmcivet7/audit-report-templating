@@ -13,7 +13,7 @@ header-includes:
 \centering
 \includegraphics[width=0.5\textwidth]{logo.pdf}
 \end{figure}
-\vspace\*{2cm}
+\vspace{2cm}
 {\Huge\bfseries Protocol Audit Report\par}
 \vspace{1cm}
 {\Large Version 1.0\par}
@@ -24,6 +24,8 @@ header-includes:
 \end{titlepage}
 
 \maketitle
+
+<!-- Your report starts here! -->
 
 Prepared by: [palmcivet](https://palmcivet.dev)
 
@@ -73,6 +75,14 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 # Executive Summary
 
 ## Issues found
+
+| Severity      | Number of issues found |
+| ------------- | ---------------------- |
+| High          | 0                      |
+| Medium        | 0                      |
+| Low           | 0                      |
+| Informational | 0                      |
+| Total         | 0                      |
 
 # Findings
 
