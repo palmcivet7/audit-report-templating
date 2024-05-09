@@ -68,6 +68,8 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 
 # Audit Details
 
+- Commit Hash: COMMIT_HASH_HERE
+
 ## Scope
 
 ## Roles
