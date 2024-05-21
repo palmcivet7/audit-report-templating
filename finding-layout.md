@@ -4,6 +4,6 @@
 
 **Impact**
 
-**Proof of Concepts**
+**Proof of Concept**
 
 **Recommended Mitigation**
